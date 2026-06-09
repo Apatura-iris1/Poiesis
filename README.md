@@ -1,7 +1,9 @@
 # Poiesis
 
 <p align="center">
-  <img src="spin.gif" width="300">
+
+  <img src="assets/spin.gif" width="800">
+
 </p>
 
 _A modular framework for reproducible generative protein design._
