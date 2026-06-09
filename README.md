@@ -1,6 +1,12 @@
 # Poiesis
 
-![Poiesis spin animation](assets/spin.gif)
+<div align="center">
+
+<img src="spin.gif" width="300">
+
+*Protein rotation*
+
+</div>
 
 _A modular framework for reproducible generative protein design._
 
