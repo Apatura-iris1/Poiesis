@@ -1,5 +1,7 @@
 # Poiesis
 
+![Poiesis spin animation](assets/spin.gif)
+
 _A modular framework for reproducible generative protein design._
 
 Poiesis aims to unify modern open-source protein design and structure prediction tools into reproducible, scalable workflows for computational protein engineering.
