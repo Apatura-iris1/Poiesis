@@ -35,14 +35,12 @@ Designed for both exploratory research and scalable computational pipelines, Poi
 
 
 ## Example workflow
-Input sequence / target
-        ↓
-RFdiffusion
-        ↓
-ProteinMPNN
-        ↓
-AlphaFold2 / Protenix
-        ↓
-Scoring + ranking
-        ↓
-Visualisation + reports
+
+```mermaid
+flowchart TD
+    A[Input sequence / target] --> B[RFdiffusion]
+    B --> C[ProteinMPNN]
+    C --> D[AlphaFold2 / Protenix]
+    D --> E[Scoring + ranking]
+    E --> F[Visualisation + reports]
+```
